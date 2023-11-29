@@ -52,3 +52,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
 .topnav-right{
     float: right;
 }
+div.container{
+  display: flex;
+  justify-content: center;
+}
+
+form{
+  width: 18%;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #A5D7E8;
+}
+
